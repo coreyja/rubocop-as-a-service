@@ -1,0 +1,1 @@
+# rubocop-as-a-service
